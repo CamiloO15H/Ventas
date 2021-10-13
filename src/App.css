@@ -1,0 +1,33 @@
+
+.bg-myRed{
+  background-color: crimson;
+}
+
+
+.contenido{
+  font-size: center; 
+}
+
+.primary{
+  font-size: xx-large;
+  margin-top: 10px;
+  padding: 10px;
+  height: 3000px;
+}
+
+.mb-2{
+  text-align: center;
+  background-color:rgba(240, 240, 240, 0.658);
+}
+
+.primary{
+  text-align: center;
+  background-color:aqua;
+}
+
+.text-muted{
+  font-size: xx-large;
+  margin-top: 10px;
+  padding: 10px;
+  height: 300px;
+}
